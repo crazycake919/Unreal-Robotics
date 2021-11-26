@@ -1,8 +1,0 @@
-
-Git Hub LFS how to make a download link
-
-https://media.githubusercontent.com/media/_Username_/_Project_/_Branch_/_Path_to_file_
-
-https://github.com/git-lfs/git-lfs/issues/1342
-
-https://media.githubusercontent.com/media/crazycake919/Unreal-Robotics/main/robotAr.apk
